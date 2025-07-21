@@ -9,7 +9,7 @@ function Home() {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="./img/img1.png"
+            src="./img/img1.webp"
             alt="Primera receta"
           />
           <Carousel.Caption>
@@ -20,7 +20,7 @@ function Home() {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="./img/img2.png"
+            src="./img/img2.webp"
             alt="Segunda receta"
           />
           <Carousel.Caption>
@@ -31,7 +31,7 @@ function Home() {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="./img/img3.png"
+            src="./img/img3.jfif"
             alt="Tercera receta"
             />
         <Carousel.Caption>
